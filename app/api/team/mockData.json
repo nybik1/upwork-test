@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Jane Cooper",
+    "title": "Paradigm Representative",
+    "role": "Admin",
+    "email": "janecooper@example.com",
+    "telephone": "+1-202-555-0170",
+    "imageUrl": "https://media.istockphoto.com/id/1416048929/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B6%D1%96%D0%BD%D0%BA%D0%B0-%D1%8F%D0%BA%D0%B0-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%94-%D0%BD%D0%B0-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D1%86%D1%96-%D0%B2-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%96-%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D1%96%D1%80%D1%8F%D1%94-%D0%B5%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%83-%D0%BF%D0%BE%D1%88%D1%82%D1%83-%D1%82%D0%B0-%D0%BF%D0%BB%D0%B0%D0%BD%D1%83%D1%94-%D0%B2-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%96.jpg?s=612x612&w=0&k=20&c=K7eT3Ure96DgayLm3fyiNdwDeXx9ZfzRzF5rdyeEMZ4="
+  },
+  {
+    "name": "John Doe",
+    "title": "Software Engineer",
+    "role": "Developer",
+    "email": "johndoe@example.com",
+    "telephone": "+1-202-555-0180",
+    "imageUrl": "https://media.istockphoto.com/id/1434212178/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%BB%D0%B8%D0%B7%D1%8C%D0%BA%D0%BE%D1%81%D1%85%D1%96%D0%B4%D0%BD%D0%B0-%D0%BB%D0%B5%D0%B4%D1%96-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%B0-%D1%89%D0%BE-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%94-%D0%B2-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%96-%D1%81%D0%B8%D0%B4%D1%8F%D1%87%D0%B8-%D0%B2-%D0%BE%D1%84%D1%96%D1%81%D1%96.jpg?s=612x612&w=0&k=20&c=7ORUy6nMJCyz4VC6uFld_LNA_qyAtNnkalDiqT3NX9M="
+  },
+  {
+    "name": "Alice Smith",
+    "title": "Product Manager",
+    "role": "Manager",
+    "email": "alicesmith@example.com",
+    "telephone": "+1-202-555-0190",
+    "imageUrl": "https://media.istockphoto.com/id/1313901506/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%BE%D0%B1%D1%80%D1%96%D0%B7%D0%B0%D0%BD%D0%B8%D0%B9-%D0%B7%D0%BD%D1%96%D0%BC%D0%BE%D0%BA-%D0%B0%D1%84%D1%80%D0%BE-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D1%8C%D0%BA%D0%BE%D1%97-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%97-%D0%B6%D1%96%D0%BD%D0%BA%D0%B8-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-%D1%81%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D0%B0-%D0%B2%D0%B4%D0%BE%D0%BC%D0%B0-%D1%83%D1%81%D0%BC%D1%96%D1%85%D0%BD%D0%B5%D0%BD%D0%B0.jpg?s=612x612&w=0&k=20&c=xUa9-RIsvMFBqX9Yniu6wenjcLYQE1GMvtGZARE_a0I="
+  },
+  {
+    "name": "Sarah Williams",
+    "title": "UI/UX Designer",
+    "role": "Designer",
+    "email": "sarahwilliams@example.com",
+    "telephone": "+1-202-555-0200",
+    "imageUrl": "https://media.istockphoto.com/id/1388644810/uk/%D1%84%D0%BE%D1%82%D0%BE/%D1%89%D0%B0%D1%81%D0%BB%D0%B8%D0%B2%D0%B8%D0%B9-%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%8C%D0%BA%D0%B8%D0%B9-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B8%D0%B9-%D1%87%D0%BE%D0%BB%D0%BE%D0%B2%D1%96%D0%BA-%D1%8F%D0%BA%D0%B8%D0%B9-%D0%B2%D0%B8%D0%BA%D0%BE%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D1%83%D1%94-%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B7%D0%B2%D1%96%D0%BD%D0%BA%D1%96%D0%B2-%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96.jpg?s=612x612&w=0&k=20&c=Nu-A1wcozsrJoghqiDDXfzwPjdaTvjGFWyoRlRMGPRI="
+  },
+  {
+    "name": "Michael Brown",
+    "title": "Data Analyst",
+    "role": "Analyst",
+    "email": "michaelbrown@example.com",
+    "telephone": "+1-202-555-0210",
+    "imageUrl": "https://media.istockphoto.com/id/1460124878/uk/%D1%84%D0%BE%D1%82%D0%BE/%D1%81%D0%BE%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96-%D0%BC%D0%B5%D1%80%D0%B5%D0%B6%D1%96-%D0%B7%D0%B2%D1%8F%D0%B7%D0%BE%D0%BA-%D1%82%D0%B0-%D0%BD%D0%B0%D0%B1%D1%96%D1%80-%D0%B6%D1%96%D0%BD%D0%BA%D0%BE%D1%8E-%D0%BD%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D1%96-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D1%83-%D1%82%D0%B0-%D1%87%D0%B0%D1%82%D1%83-%D0%B2%D0%B5%D0%B1-%D0%BF%D0%BE%D1%88%D1%83%D0%BA.jpg?s=612x612&w=0&k=20&c=gzRhr7fbM_PVdvXfSlpo_nYdvlJ1c4qT7lS5Ug5YA5M="
+  },
+  {
+    "name": "Emily Davis",
+    "title": "Marketing Specialist",
+    "role": "Marketing",
+    "email": "emilydavis@example.com",
+    "telephone": "+1-202-555-0220",
+    "imageUrl": "https://media.istockphoto.com/id/1429991322/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D0%B5%D0%B7%D1%82%D1%83%D1%80%D0%B1%D0%BE%D1%82%D0%BD%D0%B0-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0-%D0%B6%D1%96%D0%BD%D0%BA%D0%B0-%D0%B3%D1%80%D0%B0%D1%94-%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D1%83-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-%D1%81%D0%BC%D0%B0%D1%80%D1%82%D1%84%D0%BE%D0%BD%D0%B0-%D1%96-%D0%BD%D0%B0%D0%B2%D1%83%D1%88%D0%BD%D0%B8%D0%BA%D1%96%D0%B2.jpg?s=612x612&w=0&k=20&c=ZbUW9PJny_drmgXZsxYITTOX56GriYhvlfn8E4H8O9o="
+  },
+  {
+    "name": "David Wilson",
+    "title": "Project Manager",
+    "role": "Manager",
+    "email": "davidwilson@example.com",
+    "telephone": "+1-202-555-0230",
+    "imageUrl": "https://media.istockphoto.com/id/1365606637/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B7%D0%BD%D1%96%D0%BC%D0%BE%D0%BA-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D1%97-%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81%D0%B2%D1%83%D0%BC%D0%B5%D0%BD-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%BF%D0%BB%D0%B0%D0%BD%D1%88%D0%B5%D1%82%D0%B0-%D0%BF%D1%96%D0%B4-%D1%87%D0%B0%D1%81-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B8.jpg?s=612x612&w=0&k=20&c=wIxNgNY9bpvdf8OOTeERvE91eR1kZ2hVYGmlN-1gwYM="
+  },
+  {
+    "name": "Olivia Taylor",
+    "title": "Software Developer",
+    "role": "Developer",
+    "email": "oliviataylor@example.com",
+    "telephone": "+1-202-555-0240",
+    "imageUrl": "https://media.istockphoto.com/id/1400278923/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0-%D0%B7%D0%BC%D1%96%D1%88%D0%B0%D0%BD%D0%B0-%D1%80%D0%B0%D1%81%D0%B0-%D0%B6%D1%96%D0%BD%D0%BA%D0%B0-%D0%BF%D0%B5%D1%80%D0%B5%D0%B3%D0%BB%D1%8F%D0%B4%D0%B0%D1%94-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82-%D0%BF%D0%BE-%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D0%BC%D1%83-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D1%83-%D0%B2-%D0%B4%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D1%96%D0%B9-%D0%B2%D1%96%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D1%96.jpg?s=612x612&w=0&k=20&c=sFYxy9O1lpXFfzvlaDmTyK2dwnZi-TmFF1Jwrbj7O3E="
+  },
+  {
+    "name": "Daniel Anderson",
+    "title": "QA Engineer",
+    "role": "Tester",
+    "email": "danielanderson@example.com",
+    "telephone": "+1-202-555-0250",
+    "imageUrl": "https://media.istockphoto.com/id/1443876461/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B5%D1%80-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B7%D0%B0%D0%B1%D0%B5%D0%B7%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8F-%D1%80%D0%BE%D0%B7%D0%BC%D0%BE%D0%B2%D0%BB%D1%8F%D1%94-%D0%B7%D1%96-%D1%81%D0%B2%D0%BE%D1%97%D0%BC-%D0%BA%D0%BB%D1%96%D1%94%D0%BD%D1%82%D0%BE%D0%BC-%D0%BF%D0%BE-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D1%83-%D0%B2-%D0%BE%D1%84%D1%96%D1%81%D1%96.jpg?s=612x612&w=0&k=20&c=R7-osJSUhRnZS08yPkZQPyN91vr_MnKemxQOnVe_yAU="
+  },
+  {
+    "name": "Sophia Martinez",
+    "title": "Business Analyst",
+    "role": "Analyst",
+    "email": "sophiamartinez@example.com",
+    "telephone": "+1-202-555-0260",
+    "imageUrl": "https://media.istockphoto.com/id/1369508766/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%BA%D1%80%D0%B0%D1%81%D0%B8%D0%B2%D0%B0-%D1%83%D1%81%D0%BF%D1%96%D1%88%D0%BD%D0%B0-%D0%BB%D0%B0%D1%82%D0%B8%D0%BD%D1%81%D1%8C%D0%BA%D0%B0-%D0%B6%D1%96%D0%BD%D0%BA%D0%B0-%D0%BF%D0%BE%D1%81%D0%BC%D1%96%D1%85%D0%B0%D1%94%D1%82%D1%8C%D1%81%D1%8F.jpg?s=612x612&w=0&k=20&c=9P92Mc0YLC1Bp1aIOZOEWjamfNpI2RSkAM8MwLr-AgI="
+  },
+  {
+    "name": "Matthew Thompson",
+    "title": "System Administrator",
+    "role": "Admin",
+    "email": "matthewthompson@example.com",
+    "telephone": "+1-202-555-0270",
+    "imageUrl": "https://media.istockphoto.com/id/1475804411/uk/%D1%84%D0%BE%D1%82%D0%BE/%D1%83%D1%81%D0%BC%D1%96%D1%85%D0%BD%D0%B5%D0%BD%D0%B0-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%B0-%D1%96%D1%81%D0%BF%D0%B0%D0%BD%D0%BE%D0%BC%D0%BE%D0%B2%D0%BD%D0%B0-%D1%81%D0%B0%D0%BC%D0%BE%D0%B7%D0%B0%D0%B9%D0%BD%D1%8F%D1%82%D0%B0-%D0%B6%D1%96%D0%BD%D0%BA%D0%B0-%D1%8F%D0%BA%D0%B0-%D1%81%D1%82%D0%BE%D1%97%D1%82%D1%8C-%D1%83-%D1%81%D1%82%D1%83%D0%B4%D1%96%D1%97-%D0%B7-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%BE%D0%BC-%D1%83-%D1%80%D1%83%D1%86%D1%96.jpg?s=612x612&w=0&k=20&c=ylQ6Snsm1nCf-rMPLM7AbF-etef4vnMz4OCsu0wd_L4="
+  },
+  {
+    "name": "Ava Harris",
+    "title": "Data Scientist",
+    "role": "Analyst",
+    "email": "avaharris@example.com",
+    "telephone": "+1-202-555-0280",
+    "imageUrl": "https://media.istockphoto.com/id/1389465862/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B7%D0%BD%D1%96%D0%BC%D0%BE%D0%BA-%D0%BC%D0%BE%D0%BB%D0%BE%D0%B4%D0%BE%D0%B3%D0%BE-%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81%D0%BC%D0%B5%D0%BD%D0%B0-%D1%8F%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B0%D1%86%D1%8E%D1%94-%D0%BD%D0%B0-%D1%81%D0%B2%D0%BE%D1%94%D0%BC%D1%83-%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D1%86%D1%96-%D0%B7%D0%B0-%D1%81%D0%B2%D0%BE%D1%97%D0%BC-%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%BC.jpg?s=612x612&w=0&k=20&c=0cRsSjFSE_Aldw0ez_o6nj30-rpK3R947IkJFOSEzbw="
+  },
+  {
+    "name": "James Clark",
+    "title": "Frontend Developer",
+    "role": "Developer",
+    "email": "jamesclark@example.com",
+    "telephone": "+1-202-555-0290",
+    "imageUrl": "https://media.istockphoto.com/id/1364917563/uk/%D1%84%D0%BE%D1%82%D0%BE/%D0%B1%D1%96%D0%B7%D0%BD%D0%B5%D1%81%D0%BC%D0%B5%D0%BD-%D0%BF%D0%BE%D1%81%D0%BC%D1%96%D1%85%D0%B0%D1%94%D1%82%D1%8C%D1%81%D1%8F-%D0%B7-%D1%81%D1%85%D1%80%D0%B5%D1%89%D0%B5%D0%BD%D0%B8%D0%BC%D0%B8-%D1%80%D1%83%D0%BA%D0%B0%D0%BC%D0%B8-%D0%BD%D0%B0-%D0%B1%D1%96%D0%BB%D0%BE%D0%BC%D1%83-%D1%82%D0%BB%D1%96.jpg?s=612x612&w=0&k=20&c=i2JbnAypn-X42OVMDXJa65UIGCI2XsVmP_GY3Bw3pLs="
+  },
+  {
+    "name": "Mia Lewis",
+    "title": "Graphic Designer",
+    "role": "Designer",
+    "email": "mialewis@example.com",
+    "telephone": "+1-202-555-0300",
+    "imageUrl": "https://media.istockphoto.com/id/1347867391/uk/%D1%84%D0%BE%D1%82%D0%BE/%D1%89%D0%B0%D1%81%D0%BB%D0%B8%D0%B2%D0%B0-%D0%BA%D0%B0%D0%B2%D0%BA%D0%B0%D0%B7%D1%8C%D0%BA%D0%B0-%D0%B6%D1%96%D0%BD%D0%BA%D0%B0-%D0%B7%D0%B0-%D0%B4%D0%BE%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE%D1%8E-%D0%BC%D0%BE%D0%B1%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD%D1%83-%D1%81%D0%BF%D1%96%D0%BB%D0%BA%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F-%D0%B2-%D1%96%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D1%96-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D0%B0-%D0%B0%D0%B1%D0%BE.jpg?s=612x612&w=0&k=20&c=sIsws18GSTSXJHMf1uwWhIdof900gSdO350quvMGs_M="
+  }
+]
