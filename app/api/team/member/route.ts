@@ -1,4 +1,4 @@
-import mockData from './mockData.json';
+import mockData from '../mockData.json';
 import { NextResponse, NextRequest } from 'next/server';
 export async function OPTIONS(request: NextRequest) {
   const allowedOrigin = request.headers.get('origin');
@@ -16,8 +16,8 @@ export async function OPTIONS(request: NextRequest) {
   return response;
 }
 
-export async function GET() {
-  const data = mockData;
-
+export async function GET(req: NextRequest) {
+  const memberId = req.nextUrl.searchParams.get('id');
+  const data = mockData.find((item) => item.id === memberId);
   return Response.json({ data });
 }
